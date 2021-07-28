@@ -5,6 +5,9 @@
     font-family: 'Courgette', cursive;
     font-family: 'Oxygen', sans-serif;
 }
+htl{
+    scroll-behavior: smooth;
+}
 
 body{
     background-color: rgb(27, 23, 23);
